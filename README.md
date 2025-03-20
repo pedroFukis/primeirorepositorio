@@ -9,5 +9,5 @@ ritual para subir os arquivos ao github
 volta no cmd
 "git config --global user.name "pedrohenrique""
 "git config --global user.email "pedrofukis2003@gmail.com""
-"git add ."
+```git add .```
 "git commit -m"
