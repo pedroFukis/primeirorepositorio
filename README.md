@@ -21,4 +21,6 @@ volta no cmd
 
 ```git add .```
 
+```git push```
+
 ```git commit -m "nome da versão"```
